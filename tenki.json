@@ -1,0 +1,63 @@
+{
+    "latitude": 35.35,
+    "longitude": 138.6875,
+    "generationtime_ms": 0.12695789337158203,
+    "utc_offset_seconds": 32400,
+    "timezone": "Asia/Tokyo",
+    "timezone_abbreviation": "JST",
+    "elevation": 1970.0,
+    "daily_units": {
+        "time": "iso8601",
+        "weather_code": "wmo code",
+        "temperature_2m_max": "°C",
+        "temperature_2m_min": "°C",
+        "precipitation_sum": "mm"
+    },
+    "daily": {
+        "time": [
+            "2024-06-24",
+            "2024-06-25",
+            "2024-06-26",
+            "2024-06-27",
+            "2024-06-28",
+            "2024-06-29",
+            "2024-06-30"
+        ],
+        "weather_code": [
+            55,
+            53,
+            53,
+            63,
+            80,
+            80,
+            45
+        ],
+        "temperature_2m_max": [
+            24.2,
+            20.0,
+            19.5,
+            15.8,
+            13.6,
+            18.5,
+            18.1
+        ],
+        "temperature_2m_min": [
+            17.4,
+            16.2,
+            14.6,
+            11.0,
+            10.9,
+            12.4,
+            13.2
+        ],
+        "precipitation_sum": [
+            2.70,
+            0.90,
+            4.60,
+            26.70,
+            144.40,
+            25.60,
+            0.00
+        ]
+    }
+}
